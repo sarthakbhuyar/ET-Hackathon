@@ -4,7 +4,7 @@
 
 # 🌍 Urban Air Quality Intelligence Platform
 
-### 🏆 Economic Times Hackathon 2024
+### 🏆 Economic Times Hackathon 2026
 
 ### *Predict • Analyze • Prevent Air Pollution using AI*
 
