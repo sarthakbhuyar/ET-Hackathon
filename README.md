@@ -412,11 +412,14 @@ SOFTWARE.
 
 ---
 
-## 🌟 Star History
+## 🌟 Core capabilities:
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/UrbanAirIQ&type=Date)](https://star-history.com/#yourusername/UrbanAirIQ&Date)
-
----
+Pollution attribution — identifies sources like traffic, industry, construction
+AQI forecasting — predicts air quality 24hrs to 7 days out
+Health risk assessment — personalized advice (e.g., for children, asthmatics, pregnant citizens)
+Enforcement tools — priority zones, fine recommendations, inspection scheduling
+Multilingual chatbot — supports 10 Indian languages
+Geospatial visualization — interactive maps, heatmaps, hospital/school overlays
 
 <div align="center">
 
